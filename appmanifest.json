@@ -1,11 +1,11 @@
 {
-	"name": "Fruit Crush",
-	"short_name": "Fruit Crush",
+	"name": "Offerland",
+	"short_name": "Offerland",
 	"description": "1",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#ffffff",
+	"background_color": "#4e0070",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
